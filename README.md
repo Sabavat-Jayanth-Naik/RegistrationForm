@@ -60,17 +60,17 @@ This is a simple C++/CLI Windows Forms application that allows users to enter th
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-##INTERFACE 
+## INTERFACE 
 DATABASE DESIGN 
 <img width="960" alt="image" src="https://github.com/Sabavat-Jayanth-Naik/RegistrationForm/assets/130920035/eb1be58f-548f-4a7d-824e-17c47969e20d">
-##USERINTERFACE
+## USERINTERFACE
 <img width="472" alt="image" src="https://github.com/Sabavat-Jayanth-Naik/RegistrationForm/assets/130920035/65465ea6-1495-4e79-9847-15a53c781eeb">
-##REGISTERING
+## REGISTERING
 <img width="475" alt="image" src="https://github.com/Sabavat-Jayanth-Naik/RegistrationForm/assets/130920035/cdfb3927-7429-42e2-88bd-4484bd3806c8">
 <img width="517" alt="image" src="https://github.com/Sabavat-Jayanth-Naik/RegistrationForm/assets/130920035/c7a9e782-cd60-439a-a7f3-6ce9fec38490">
-##searching the user bsy hid name
+## searching the user by his name
 <img width="544" alt="image" src="https://github.com/Sabavat-Jayanth-Naik/RegistrationForm/assets/130920035/1039771d-9ef3-455e-8ff5-5cf25a9a3213">
-if no user exist it will display message like this
+## If no user exist it will display message like this..
 <img width="479" alt="image" src="https://github.com/Sabavat-Jayanth-Naik/RegistrationForm/assets/130920035/437d0ca8-c780-437c-ab6e-61787a0c6c67">
 
 
